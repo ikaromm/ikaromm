@@ -2,6 +2,9 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ikarom/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sujeitoprogramador](https://www.instagram.com/_ikaro.m/))
+
+##
+
 ![Ikaro GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que estou utilizando:
