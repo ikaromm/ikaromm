@@ -17,4 +17,4 @@
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
 </div><br/>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikaromm)](https://github.com/anuraghazra/github-readme-stats)
+[![ikaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikaromm)](https://github.com/anuraghazra/github-readme-stats)
