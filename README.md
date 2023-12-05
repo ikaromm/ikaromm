@@ -26,9 +26,9 @@
     <h2>Main Projects</h2>
     <div style="text-align: center">
     <div>
-        <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
+        <a href="https://github.com/ikaromm/stonks_analytics_scraper">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_analysis_ML&theme=dark&hide_border=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_scraper&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
         <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
