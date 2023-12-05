@@ -6,7 +6,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dracula&count_private=true">
   
 </div>
-![Ikaro GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dracula&count_private=true)
+
 
 
 <div align="center">
@@ -26,7 +26,7 @@
     <div>
         <a href="">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dark&hide_border=true"
             alt="My github stats" />
         </a>
     </div>
@@ -68,11 +68,15 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Latex" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Latex" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
   <img align="center" alt="lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white" />
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
 </div><br/>
 
 
