@@ -42,15 +42,20 @@
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Graficos-TCC-Stratiomyidae&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
-        </a>
+      
+</div>
+
+<div align="center">
+    <h2>Contributed to: </h2>
+    <div style="text-align: center">
+    <div>
+  </a>
         <a href="https://github.com/ViniciusRaphael/trilha_gratuita_de_analise_de_dados">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ViniciusRaphael&repo=trilha_gratuita_de_analise_de_dados&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
     </div>
-
-</div>
 
 <div align="center">
     <h2>My Statistics</h2>
