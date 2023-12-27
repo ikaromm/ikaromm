@@ -37,12 +37,19 @@
             alt="github-readme-streak-stats">
         </a>
     </div>
-    <div>
-        <a href="https://github.com/ikaromm/Graficos-TCC-Stratiomyidae">
+    <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/ikaromm/Graficos-TCC-Stratiomyidae">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Graficos-TCC-Stratiomyidae&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
-      
+    </a>
+    <a href="https://github.com/ikaromm/OLD_Stonks-Analitycs">
+        <img width="282"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=OLD_Stonks-Analitycs&theme=dark&hide_border=true"
+            alt="github-readme-streak-stats">
+    </a>
+</div>
+
 </div>
 
 <div align="center">
