@@ -25,6 +25,12 @@
 <div align="center">
     <h2>Main Projects</h2>
     <div style="text-align: center">
+         <div>
+        <a href="https://github.com/ikaromm/Car-Insurance-Project">
+        <img width="282"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Car-Insurance-Project&theme=dark&hide_border=true"
+            alt="github-readme-streak-stats">
+        </a>
     <div>
         <a href="https://github.com/ikaromm/stonks_analytics_scraper">
         <img width="282"
