@@ -58,8 +58,11 @@
 
 ## Theoretical Study Material
 <div align="center">
-    <a href="https://github.com/ikaromm/Estudo_ML">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Estudo_ML&theme=dark&hide_border=true" alt="Estudo ML">
+    <a href="https://github.com/ikaromm/ML_Study">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=ML_Study&theme=dark&hide_border=true" alt="Estudo ML">
+    </a>
+        <a href="https://github.com/ikaromm/Matplotlib_Study">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Matplotlib_Study&theme=dark&hide_border=true" alt="Estudo ML">
     </a>
 </div>
 
