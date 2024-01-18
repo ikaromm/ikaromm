@@ -6,9 +6,8 @@
   <a href="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dracula&count_private=true"> 
 </div>
 
-
 <div align="center">
-   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -19,10 +18,10 @@
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
   <img align="center" alt="lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white" />
 </div>
-<br/>
 
-  
-## Main Projects
+  <div align="center">
+    <h2 style="font-weight: bold;">Main Projects</h2>
+</div>
 <div align="center">
         <a href="https://github.com/ikaromm/Car-Insurance-Project">
         <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Car-Insurance-Project&theme=dark&hide_border=true" alt="Car Insurance Project">
