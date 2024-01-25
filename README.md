@@ -26,9 +26,9 @@
         <a href="https://github.com/ikaromm/Car-Insurance-Project">
         <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Car-Insurance-Project&theme=dark&hide_border=true" alt="Car Insurance Project">
     </a>
-    <a href="https://github.com/ikaromm/Kaggle-Data-Science-London-Scikit-learn">
+    <a href="https://github.com/ikaromm/HS_Airbnb_Rio">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Kaggle-Data-Science-London-Scikit-learn&theme=dark&hide_border=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=HS_Airbnb_Rio&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
     <div align="center">
