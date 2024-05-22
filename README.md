@@ -43,9 +43,9 @@
             alt="github-readme-streak-stats">
         </a>
     <div align="center">
-            <a href="https://github.com/ikaromm/Graficos-TCC-Stratiomyidae">
+            <a href="https://github.com/ikaromm/Heart-Attack-Analysis---Prediction-Dataset">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Graficos-TCC-Stratiomyidae&theme=dark&hide_border=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Heart-Attack-Analysis---Prediction-Dataset&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
     </a>
     <a href="https://github.com/ikaromm/OLD_Stonks-Analitycs">
