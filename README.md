@@ -1,112 +1,96 @@
 <div align="center">
-    <h1 style="font-weight: bold;">Ikaro Moribayashi</h1>
+  <h1 style="font-weight: bold;">Ikaro Moribayashi</h1>
+  <p>
+    <em>Data Enginner | Data Scientist</em>
+  </p>
 </div>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dracula&count_private=true"> 
+  <a href="https://www.linkedin.com/in/ikarom/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ikaromm@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
-<div align="center">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Latex" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white" />
-  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img align="center" alt="lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white" />
-</div>
+---
 
-  <div align="center">
-    <h2 style="font-weight: bold;">Main Projects</h2>
-</div>
-<div align="center">
-        <a href="https://github.com/ikaromm/Car-Insurance-Project">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Car-Insurance-Project&theme=dark&hide_border=true" alt="Car Insurance Project">
-    </a>
-    <a href="https://github.com/ikaromm/HS_Airbnb_Rio">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=HS_Airbnb_Rio&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-        </a>
-    <div align="center">
-        <a href="https://github.com/ikaromm/stonks_analytics_scraper">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_scraper&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-        </a>
-        <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_analysis_ML&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-        </a>
-    <div align="center">
-            <a href="https://github.com/ikaromm/Heart-Attack-Analysis---Prediction-Dataset">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Heart-Attack-Analysis---Prediction-Dataset&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-    </a>
-    <a href="https://github.com/ikaromm/OLD_Stonks-Analitycs">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=OLD_Stonks-Analitycs&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-   </a>  
-</div>
+### 👋 About Me
 
-## Theoretical Study Material
-<div align="center">
-    <a href="https://github.com/ikaromm/ML_Study">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=ML_Study&theme=dark&hide_border=true" alt="Estudo ML">
-    </a>
-        <a href="https://github.com/ikaromm/Matplotlib_Study">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Matplotlib_Study&theme=dark&hide_border=true" alt="Estudo ML">
-    </a>
-</div>
-    </a>
-        <a href="https://github.com/ikaromm/Database_Study">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=Database_Study&theme=dark&hide_border=true" alt="Estudo ML">
-    </a>
-</div>
+I am a passionate Data Enginner with a strong foundation in Python and its data-centric libraries. I enjoy transforming complex datasets into actionable insights and building machine learning models to solve real-world problems. I'm always eager to learn new technologies, and my current focus is on advancing my skills in MLOps, particularly with AWS and Terraform.
 
+---
 
-## Contributed to
-<div align="center">
-    <a href="https://github.com/ViniciusRaphael/trilha_gratuita_de_analise_de_dados">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ViniciusRaphael&repo=trilha_gratuita_de_analise_de_dados&theme=dark&hide_border=true" alt="Trilha Gratuita de Análise de Dados">
-    </a>
-</div>
+### 🛠️ Skills
 
 <div align="center">
-    <h2>My Statistics</h2>
-    <div>
-      <a href="">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dark&hide_border=true"
-            alt="My github stats" />
-        </a>
-      <a href="">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaromm&theme=dark&hide_border=true" />
-        </a>
-    </div>
-    </div>
-    
+  <h4>Linguagens & Frameworks</h4>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img alt="Great Expectations" src="https://img.shields.io/badge/Great%20Expectations-FF6337?style=for-the-badge&logo=greatexpectations&logoColor=white" />
+    <img alt="Unittest" src="https://img.shields.io/badge/unittest-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+  <h4>Cloud & Orquestração</h4>
+  <p>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+  </p>
+  <h4>Ferramentas de Dados</h4>
+  <p>
+    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img alt="OpenMetadata" src="https://img.shields.io/badge/OpenMetadata-516FFF?style=for-the-badge&logo=data-lineage&logoColor=white" />
+  </p>
+</div>
+
+---
+
+### 📜 Certifications
 <div align="center">
-    <h2>Contact Me</h2>
-    <div>
-        <a href="https://github.com/ikaromm">
-            <img alt="Github"
-                src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/ikarom/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="">
-        </a>
-        <a href="mailto:ikaromm@hotmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-                alt="">
-        </a>
-    </div>
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified AI Practitioner">
+  <img src="https://img.shields.io/badge/Astronomer_Certified_Airflow_Fundamentals-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Astronomer Certification for Apache Airflow Fundamentals">
+</div>
+
+---
+
+### 🚀 Main Projects
+
+Below are some of my featured projects. The new **Tennis Match Prediction Pipeline** is what I'm currently focused on!
+
+<div align="center">
+  <a href="https://github.com/ikaromm/class_tennis">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=class_tennis&theme=dark&hide_border=true" alt="Tennis Match Prediction Pipeline">
+  </a>
+  <p><b>Tennis Match Prediction Pipeline:</b> A modular, object-oriented ML pipeline for predicting tennis match outcomes using historical data.</p>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/ikaromm/stonks_analytics_scraper">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_scraper&theme=dark&hide_border=true" alt="Stonks Analytics Scraper">
+  </a>
+  <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_analysis_ML&theme=dark&hide_border=true" alt="Stonks Analytics Analysis ML">
+  </a>
+</div>
+
+---
+
+### 📊 My Statistics
+
+<div align="center">
+  <a href="https://github.com/ikaromm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikaromm&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ikaro's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ikaromm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaromm&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
 </div>
