@@ -67,19 +67,23 @@ I am a passionate Data Enginner with a strong foundation in Python and its data-
 Below are some of my featured projects. The new **Tennis Match Prediction Pipeline** is what I'm currently focused on!
 
 <div align="center">
-  <a href="https://github.com/ikaromm/class_tennis">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=class_tennis&theme=dark&hide_border=true" alt="Tennis Match Prediction Pipeline">
+  <a href="https://github.com/ikaromm/build-with-ai-gdg">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=build-with-ai-gdg&theme=dark&hide_border=true" alt="Build with AI - GDG Serverless Pipeline">
   </a>
   <p><b>Tennis Match Prediction Pipeline:</b> A modular, object-oriented ML pipeline for predicting tennis match outcomes using historical data.</p>
 </div>
 <br>
 <div align="center">
+  <a href="https://github.com/ikaromm/class_tennis">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=class_tennis&theme=dark&hide_border=true" alt="Tennis Match Prediction Pipeline">
+  </a>
   <a href="https://github.com/ikaromm/stonks_analytics_scraper">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_scraper&theme=dark&hide_border=true" alt="Stonks Analytics Scraper">
   </a>
   <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_analysis_ML&theme=dark&hide_border=true" alt="Stonks Analytics Analysis ML">
   </a>
+  
 </div>
 
 ---
