@@ -64,26 +64,22 @@ I am a passionate Data Enginner with a strong foundation in Python and its data-
 
 ### 🚀 Main Projects
 
-Below are some of my featured projects. The new **Tennis Match Prediction Pipeline** is what I'm currently focused on!
+Below are some of my featured projects. The new **Formula 1 data plataform** is what I'm currently focused on!
 
 <div align="center">
-  <a href="https://github.com/ikaromm/build-with-ai-gdg">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=build-with-ai-gdg&theme=dark&hide_border=true" alt="Build with AI - GDG Serverless Pipeline">
+  <a href="https://github.com/ikaromm/f1-data-platform">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=f1-data-platform&theme=dark&hide_border=true" alt="An end-to-end data platform for ingesting and analyzing Formula 1 data.">
   </a>
-  <p><b>Tennis Match Prediction Pipeline:</b> A modular, object-oriented ML pipeline for predicting tennis match outcomes using historical data.</p>
+  <p><b>Finished projects.</p>
 </div>
 <br>
 <div align="center">
+    <a href="https://github.com/ikaromm/build-with-ai-gdg">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=build-with-ai-gdg&theme=dark&hide_border=true" alt="Build with AI - GDG Serverless Pipeline">
+  </a>
   <a href="https://github.com/ikaromm/class_tennis">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=class_tennis&theme=dark&hide_border=true" alt="Tennis Match Prediction Pipeline">
   </a>
-  <a href="https://github.com/ikaromm/stonks_analytics_scraper">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_scraper&theme=dark&hide_border=true" alt="Stonks Analytics Scraper">
-  </a>
-  <a href="https://github.com/ikaromm/stonks_analytics_analysis_ML">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikaromm&repo=stonks_analytics_analysis_ML&theme=dark&hide_border=true" alt="Stonks Analytics Analysis ML">
-  </a>
-  
 </div>
 
 ---
